@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechAssessmentSantander", "TechAssessmentSantander\TechAssessmentSantander.csproj", "{B58ACADC-9FC4-48C1-B16E-349ECE569C03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechAssessmentSantander.Business", "TechAssessmentSantander.Business\TechAssessmentSantander.Business.csproj", "{51BEDFDC-A5E4-450E-962C-A566CDB64F65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechAssessmentSantander.Entity", "TechAssessmentSantander.Entity\TechAssessmentSantander.Entity.csproj", "{E18A8336-FC84-4DAD-949C-147340EBCBD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechAssessmentSantander.InfraStructure", "TechAssessmentSantander.InfraStructure\TechAssessmentSantander.InfraStructure.csproj", "{114F0A94-CEAB-45A3-8318-4B7E978E4365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechAssessmentSantander.UnitTest", "TechAssessmentSantander.UnitTest\TechAssessmentSantander.UnitTest.csproj", "{13DA6E7E-284C-409C-AD6B-1224DF2240B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58ACADC-9FC4-48C1-B16E-349ECE569C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58ACADC-9FC4-48C1-B16E-349ECE569C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58ACADC-9FC4-48C1-B16E-349ECE569C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58ACADC-9FC4-48C1-B16E-349ECE569C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BEDFDC-A5E4-450E-962C-A566CDB64F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BEDFDC-A5E4-450E-962C-A566CDB64F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BEDFDC-A5E4-450E-962C-A566CDB64F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BEDFDC-A5E4-450E-962C-A566CDB64F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E18A8336-FC84-4DAD-949C-147340EBCBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18A8336-FC84-4DAD-949C-147340EBCBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18A8336-FC84-4DAD-949C-147340EBCBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18A8336-FC84-4DAD-949C-147340EBCBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114F0A94-CEAB-45A3-8318-4B7E978E4365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114F0A94-CEAB-45A3-8318-4B7E978E4365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114F0A94-CEAB-45A3-8318-4B7E978E4365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114F0A94-CEAB-45A3-8318-4B7E978E4365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DA6E7E-284C-409C-AD6B-1224DF2240B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DA6E7E-284C-409C-AD6B-1224DF2240B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DA6E7E-284C-409C-AD6B-1224DF2240B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DA6E7E-284C-409C-AD6B-1224DF2240B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA85C04F-7D46-4A51-8D92-568E8BEBE70A}
+	EndGlobalSection
+EndGlobal
